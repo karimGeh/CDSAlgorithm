@@ -21,7 +21,7 @@ example = [
 GanttDiagram(CDS(example)).showChart()
 ```
 
-![GanttDiagram](https://github.com/karimGeh/CDS_algorithm/blob/main/public/chart1.png?raw=true)
+![GanttDiagram](https://github.com/karimGeh/CDSAlgorithm/blob/master/public/chart1.png?raw=true)
 
 ## Introduction :
 
@@ -100,7 +100,7 @@ The `GanttDiagram` takes two arguments, the first one is the `CDS_object`, and t
 GanttDiagram(example_CDS).showChart()
 ```
 
-> ![GanttDiagram](https://github.com/karimGeh/CDS_algorithm/blob/main/public/chart1.png?raw=true)
+![GanttDiagram](https://github.com/karimGeh/CDSAlgorithm/blob/master/public/chart1.png?raw=true)
 
 ## License
 
