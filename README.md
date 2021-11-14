@@ -1,4 +1,4 @@
-# Production time optimization using the CDS algorithm
+# Production time optimization using the CDS algorithm [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![UpWork][3.2]][3]
 
 for this tutorial you need to have python 3.x installed on your machine.
 
@@ -106,3 +106,11 @@ GanttDiagram(example_CDS).showChart()
 
 MIT
 **Free Software, Hell Yeah!**
+
+[1.2]: https://img.shields.io/badge/Twitter-@karimGeh?style=flat&logo=Twitter&logoColor=white&color=1D9BF0
+[2.2]: https://img.shields.io/badge/LinkedIn-Karim%20G?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2
+[3.2]: https://img.shields.io/badge/UpWork-Karim%20G?style=flat&logo=Upwork&logoColor=white&color=14A800
+
+[1]: https://twitter.com/karimGeh
+[2]: https://www.linkedin.com/in/karim-gehad/
+[3]: https://www.upwork.com/freelancers/~0139e8dbc9c723a93a
