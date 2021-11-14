@@ -1,4 +1,4 @@
-# Production time optimization using the CDS algorithm [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![UpWork][3.2]][3]
+# Production time optimization using the CDS algorithm [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 for this tutorial you need to have python 3.x installed on your machine.
 
